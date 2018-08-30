@@ -6,3 +6,4 @@ password = getpass.getpass('password:')
 
 print(username,password)
 
+print('ls')
