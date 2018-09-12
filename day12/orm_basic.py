@@ -43,4 +43,4 @@ Session.add(user_obj)  # 把要创建的数据对象添加到这个session里，
 Session.add(user_obj2)  # 把要创建的数据对象添加到这个session里， 一会统一创建
 print(user_obj.name, user_obj.id)  # 此时也依然还没创建
 
-Session.commit()  # 现此才统一提交，创建数据
+#Session.commit()  # 现此才统一提交，创建数据
