@@ -1,0 +1,6 @@
+RabbitMQ  消息队列  (安装) pika
+    PY
+        threading QUEUE
+        进程QUEUE
+Redis
+Mysql
